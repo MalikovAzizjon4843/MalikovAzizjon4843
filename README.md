@@ -6,7 +6,7 @@
 - My linkedin account https://www.linkedin.com/in/azizjon-malikov-31586522a/
 
 ![Snake animation](https://github.com/MalikovAzizjon4843/MalikovAzizjon4843/blob/output/github-contribution-grid-snake.svg)
-.
+
 <!---
 MalikovAzizjon4843/MalikovAzizjon4843 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
