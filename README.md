@@ -11,3 +11,11 @@
 MalikovAzizjon4843/MalikovAzizjon4843 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
 --->
+<br>
+<hr>
+<br>
+<b> <h2 align="center">💻 My GitHub activity </h2></b>
+<p>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=ismailofuz&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="500px">      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailofuz&theme=radical&title_color=8E2DE2&text_color=fff)
+</p>
