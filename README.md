@@ -5,6 +5,7 @@
 - 📫 How to reach me azizjon.malikovv@gmail.com
 - My linkedin account https://www.linkedin.com/in/azizjon-malikov-31586522a/
 
+<!-- ![Snake animation](https://github.com/MalikovAzizjon4843/MalikovAzizjon4843/blob/output/github-contribution-grid-snake.svg)  -->
 ![Snake animation](https://github.com/MalikovAzizjon4843/MalikovAzizjon4843/blob/output/github-contribution-grid-snake.svg)
 
 <!---
