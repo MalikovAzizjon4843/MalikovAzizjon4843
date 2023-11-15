@@ -6,6 +6,7 @@
 - My linkedin account https://www.linkedin.com/in/azizjon-malikov
 
 <!-- ![Snake animation](https://github.com/MalikovAzizjon4843/MalikovAzizjon4843/blob/output/github-contribution-grid-snake.svg)  -->
+![](https://raw.githubusercontent.com/MalikovAzizjon4843/MalikovAzizjon4843/output/github-contribution-grid-snake.svg)
 
 <!---
 MalikovAzizjon4843/MalikovAzizjon4843 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
