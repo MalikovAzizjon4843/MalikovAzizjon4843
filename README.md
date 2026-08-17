@@ -35,31 +35,21 @@ const azizjon = {
 
 ### Tech Stack
 
+<div align="center">
+
 **Frontend**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+[![Frontend](https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,html,css,sass,tailwind&theme=dark)](https://skillicons.dev)
 
 **Backend**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=java,spring,hibernate,python,nodejs&theme=dark)](https://skillicons.dev)
 
 **Database & Tools**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=postgres,docker,git,github,maven,idea,vscode,linux&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -82,10 +72,16 @@ const azizjon = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MalikovAzizjon4843&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikovAzizjon4843&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats-ivory-three-78.vercel.app/api?username=MalikovAzizjon4843&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats-ivory-three-78.vercel.app/api/top-langs/?username=MalikovAzizjon4843&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MalikovAzizjon4843&hide_border=true&theme=tokyonight" alt="Streak Stats"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=MalikovAzizjon4843&hide_border=true&theme=tokyonight" alt="Streak Stats"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy-eosin-one.vercel.app/?username=MalikovAzizjon4843&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
 
 </div>
 
