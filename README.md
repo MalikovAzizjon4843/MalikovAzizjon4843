@@ -79,11 +79,6 @@ const azizjon = {
 <img height="180" src="https://github-readme-stats-ivory-three-78.vercel.app/api/top-langs/?username=MalikovAzizjon4843&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages"/>
 <img height="180" src="https://streak-stats.demolab.com?user=MalikovAzizjon4843&hide_border=true&theme=tokyonight" alt="Streak Stats"/>
 
-<br/>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MalikovAzizjon4843&theme=tokyonight" alt="Most Commit Language"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MalikovAzizjon4843&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
-
 </div>
 
 ---
