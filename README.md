@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Vue.js+%2B+Java+Spring+Boot;Enterprise+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Developer;Vue.js+%2B+Java+Spring+Boot;Enterprise+Web+Applications" alt="Typing SVG" />
 
 <p>
   <a href="https://azizjoon.uz"><img src="https://img.shields.io/badge/Portfolio-azizjoon.uz-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
@@ -72,16 +72,17 @@ const azizjon = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-ivory-three-78.vercel.app/api?username=MalikovAzizjon4843&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats-ivory-three-78.vercel.app/api/top-langs/?username=MalikovAzizjon4843&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalikovAzizjon4843&theme=tokyonight" alt="Profile Summary"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=MalikovAzizjon4843&hide_border=true&theme=tokyonight" alt="Streak Stats"/>
+<img height="180" src="https://github-readme-stats-ivory-three-78.vercel.app/api/top-langs/?username=MalikovAzizjon4843&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+<img height="180" src="https://streak-stats.demolab.com?user=MalikovAzizjon4843&hide_border=true&theme=tokyonight" alt="Streak Stats"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-profile-trophy-eosin-one.vercel.app/?username=MalikovAzizjon4843&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MalikovAzizjon4843&theme=tokyonight" alt="Most Commit Language"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MalikovAzizjon4843&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
 
 </div>
 
@@ -89,8 +90,30 @@ const azizjon = {
 
 <div align="center">
 
-**Open to freelance projects and collaboration**
+## Let's work together
 
-Reach me at [azizjon.malikovv@gmail.com](mailto:azizjon.malikovv@gmail.com) or [@Azizjon_Malikov](https://t.me/Azizjon_Malikov)
+I'm available for **freelance projects**, **contract work**, and **technical collaboration**.
+
+Whether you need a Vue.js frontend, a Spring Boot API, or a complete web application built from scratch — I'd be glad to hear about it.
+
+<br/>
+
+<a href="mailto:azizjon.malikovv@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_email-azizjon.malikovv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://t.me/Azizjon_Malikov">
+  <img src="https://img.shields.io/badge/Message_on_Telegram-@Azizjon__Malikov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+
+<br/><br/>
+
+<a href="https://azizjoon.uz">
+  <img src="https://img.shields.io/badge/See_my_full_portfolio-azizjoon.uz-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MalikovAzizjon4843&style=flat-square&color=FF6B35&label=Profile+views" alt="Profile views"/>
 
 </div>
